@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\bin\Debug\net8.0\1zadanie7tema.exe
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\bin\Debug\net8.0\1zadanie7tema.deps.json
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\bin\Debug\net8.0\1zadanie7tema.runtimeconfig.json
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\bin\Debug\net8.0\1zadanie7tema.dll
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\bin\Debug\net8.0\1zadanie7tema.pdb
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.dll
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\refint\1zadanie7tema.dll
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.pdb
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\1zadanie7tema.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\1zadanie7tema\1zadanie7tema\obj\Debug\net8.0\ref\1zadanie7tema.dll
